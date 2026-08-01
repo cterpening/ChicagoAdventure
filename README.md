@@ -8,6 +8,7 @@ Kylie and Gwen “G Dog” take a pixel-art, choose-your-own-adventure trip acro
 
 - Move with **WASD** or the **arrow keys**.
 - On a phone or tablet, use the on-screen directional pad.
+- On Xbox or another standard controller, use the left stick/D-pad to move, `A` to start or continue, and `Y` to restart.
 - Leave the apartment, walk to any L stop on the overworld, and collect the adventure stamp in each location.
 - Find extra G Dog treats hidden around the city map.
 
@@ -18,4 +19,3 @@ Andersonville, Wrigleyville, Loyola, Lollapalooza, Trader Joe’s, Navy Pier, do
 ## Run locally
 
 Open `index.html` in a modern browser. A local web server is recommended if the browser restricts locally loaded images.
-
